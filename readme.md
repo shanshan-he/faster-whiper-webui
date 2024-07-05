@@ -125,11 +125,12 @@ python cli.py \
 
 
 ## 音频转文本效果展示
-
+英文：
 ![image-3](image/3.png)
 
 如果你没有足够强大的GPU来运行大型模型，你还可以直接在[Google Colab](https://colab.research.google.com/drive/1qeTSvi7Bt_5RMm88ipW4fkcsMOKlDDss?usp=sharing)上运行这个Web UI。
 
-
+中文：
+![image-4](image/4.png)
 
 感谢参考资源：[资源1](https://github.com/ycyy/faster-whisper-webui?tab=readme-ov-file)、[资源2](https://blog.csdn.net/qq_51654202/article/details/135417754?spm=1001.2014.3001.5506)、[资源3](https://www.bilibili.com/video/BV1bG411C7LM/?spm_id_from=333.999.0.0&vd_source=fb1c54b41a032e91f9ea072fc9581b62)
