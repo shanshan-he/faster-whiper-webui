@@ -88,11 +88,11 @@ python app.py --input_audio_max_duration -1 --server_name 127.0.0.1 --auto_paral
 
 运行效果：
 
-![image-20240705103727405](C:\Users\lango\AppData\Roaming\Typora\typora-user-images\image-20240705103727405.png)
+![image-1](image/1.png)
 
 在本地网页中可打开URL，效果如下：
 
-![image-20240705103925364](C:\Users\lango\AppData\Roaming\Typora\typora-user-images\image-20240705103925364.png)
+![image-2](image/2.png)
 
 同时，可以配置文件config.json5，默认设置自己想要的参数，这里设置了默认tiny量级的模型，语音为英语。
 
@@ -126,9 +126,9 @@ python cli.py \
 
 ## 音频转文本效果展示
 
-![image-20240705105602838](C:\Users\lango\AppData\Roaming\Typora\typora-user-images\image-20240705105602838.png)
+![image-3](image/3.png)
 
-如果你没有足够强大的GPU来运行大型模型，你还可以直接在[Google Colab](https://colab.research.google.com/drive/1qeTSvi7Bt_5RMm88ipW4fkcsMOKlDDss?usp=sharing)上运行这个Web UI, 
+如果你没有足够强大的GPU来运行大型模型，你还可以直接在[Google Colab](https://colab.research.google.com/drive/1qeTSvi7Bt_5RMm88ipW4fkcsMOKlDDss?usp=sharing)上运行这个Web UI。
 
 
 
